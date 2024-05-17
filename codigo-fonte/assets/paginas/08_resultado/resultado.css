@@ -1,0 +1,196 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFFBEF;
+}
+
+.navbar {
+    background-color: #FAC254;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex; 
+}
+
+.navbar ul li {
+    margin-right: 20px; 
+}
+
+.navbar ul li:last-child {
+    margin-right: 0; 
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    padding: 10px; 
+    transition: all 0.3s ease; 
+}
+
+.navbar ul li a:hover {
+    text-decoration: underline;
+}
+
+.logo img{
+    margin-left: 100px;
+    height: 30px; 
+}
+
+.user img{
+    margin-right: 100px;
+    height: 40px; 
+}
+
+.resultado {
+    position: absolute;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-left: 645px;
+}
+
+.resultado h1{
+    font-family: 'Acme';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    color: #086400;
+}
+.lista_resultados {
+    position:absolute;
+    display:flex;
+    margin-top: 80px;
+    margin-left: 560px;
+}
+.lista_resultados p {
+    font-family: 'Acme';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 38px;
+    text-align: center;
+    color: #086400;
+}
+
+.lista_resultados h2{
+    box-sizing: border-box;
+    position:relative;
+    width: 400px;
+    height: 35px;
+    top: 50px;
+    right: 360px;
+    text-align: center;
+    font-family: 'Acme';
+    color: #086400;
+    border: 3px solid #FAC254;
+    border-radius: 10px;
+}
+.co2 {
+    position:absolute;
+    display:flex;
+    margin-top: 170px;
+    margin-left: 635px;
+}
+.co2 p {
+    font-family: 'Acme';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 38px;
+    text-align: center;
+    color: #086400;
+}
+
+.co2 h2{
+    box-sizing: border-box;
+    position:relative;
+    width: 400px;
+    height: 35px;
+    top: 50px;
+    right: 285px;
+    text-align: center;
+    font-family: 'Acme';
+    color: #086400;
+    border: 3px solid #FAC254;
+    border-radius: 10px;
+}
+
+.img_lamp svg{
+    float: right;
+    height: 299px;
+    width: 362px;
+    position: relative;
+    z-index: 1;
+}
+
+.logoEcosaver img{
+    padding-top: 280px;
+    padding-left: 20px;
+    height: 354px;
+    width: 305px;
+}
+.novo_calc {
+    position: absolute;
+    cursor: pointer;
+    width: 280px;
+    height: 100px;
+    left: 580px;
+    top: 360px;
+    border-radius: 10px;
+    border-style: none;
+    background: #FAC254;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.historico {
+    position: absolute;
+    border: 2px solid #FAC254;
+    cursor: pointer;
+    width: 280px;
+    height: 100px;
+    left: 580px;
+    top: 500px;
+    border-radius: 10px;
+    background: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+    color: #FAC254;
+}
+.rodape {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    background-color: #FAC254;
+    padding: 15px;
+    color: #FFFBEF;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-size: 16px;
+}

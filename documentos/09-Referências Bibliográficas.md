@@ -1,7 +1,1 @@
-# Referências Bibliográficas
-
-[Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.]
-
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+RNF-02	A aplicação deverá ser responsiva permitindo a visualização em dispositivos diversos de forma adequada.	Alta

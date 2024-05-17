@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoSaver</title>
+    <link rel="stylesheet" href="pagina_calculo.css">
+    <link rel="stylesheet" href="../../styles/navbardev.css">
+</head>
+<body>
+    <header>
+        <nav class="navbardev">
+            <div class="logo">
+                <a href="../01_home/home.html">
+                    <img src="../../img/ECONav.svg" alt="ECO">
+                </a>
+            </div>
+
+            <div class="mobile-menu-icon">
+                <button onclick="menuShow( )">
+                    <img class="icon" src="../../img/menu_icon_linhas.svg" alt="Icone Menu">
+                </button>
+            </div>
+
+            <div class="menu">
+                <ul>
+                    <li class="nav-item"><a href="../01_home/home.html" class="nav-link">HOME</a></li>
+                    <li class="nav-item"><a href="../04_sobre/sobre.html" class="nav-link">SOBRE NÓS</a></li>
+                    <li class="nav-item"><a href="../05_noticias/noticias.html" class="nav-link">NOTÍCIAS</a></li>
+                </ul>
+            </div>
+
+            <div class="user">
+                <a href="../03_login/login.html">
+                    <img src="../../img/UserNav.svg" alt="Usuário">
+                </a>
+            </div>
+        </nav>
+
+        <div class="mobile-menu">
+            <ul>
+                <li class="nav-item"><a href="../01_home/home.html" class="nav-link">HOME</a></li>
+                <li class="nav-item"><a href="../04_sobre/sobre.html" class="nav-link">SOBRE NÓS</a></li>
+                <li class="nav-item"><a href="../05_noticias/noticias.html" class="nav-link">NOTÍCIAS</a></li>
+                <li class="nav-item"><a href="../03_login/login.html" class="nav-link"><img src="../../img/UserNav.svg" alt="Usuário"></a></li>
+            </ul>
+        </div>
+    </header>
+
+    <div class="conteudo">
+        <div class="nossa-historia">
+            <h2>Calcule o consumo de energia por mês:</h2>
+            <br>
+            <p>
+                <form id="calculo">
+                    <label for="eletrodomestico">Digite o seu eletrodoméstico:</label><br>
+                    <input class="form" id="eletrodomestico" name="eletrodomestico"><br><br>
+
+                    <label for="potencia">Potência do aparelho (W):</label><br>
+                    <input class="form" type="number" id="potencia" name="potencia" min="1" required><br><br>
+            
+                    <label for="dias_mes">Dias utilizados por mês:</label><br>
+                    <input class="form" type="number" id="dias_mes" name="dias_mes" min="1" required><br><br>
+            
+                    <label for="horas_dia">Horas utilizadas por dia:</label><br>
+                    <input class="form" type="number" id="horas_dia" name="horas_dia" min="1" required><br><br>
+            
+                    <label for="preco_energia">Preço da energia (reais por kW/h):</label><br>
+                    <input class="form" type="number" id="preco_energia" name="preco_energia" step="0.01" min="0" required><br><br>
+                    <button type="submit" class="botao">CALCULAR</button>
+
+                </form>
+            </p>
+            <br>
+        </div>
+        <div class="imagem-container">
+            <div class="maos">
+                <img src="../../img/logo.svg" alt="Logo EcoSaver">
+            </div>
+    </div>
+
+    <footer class="rodape">
+        <p>Projeto 01 - Realizado pelo Grupo B - Análise e Desenvolvimento de Sistemas - PUC Minas</p>
+    </footer>
+
+    <script src="../../scripts/navbardev.js"></script>
+    <script>
+        document.getElementById('calculo').addEventListener('submit', function(event) {
+            event.preventDefault();
+            var w = Number(document.getElementById('potencia').value);
+            var x = Number(document.getElementById('potencia').value) / 1000;
+            var h = Number(document.getElementById('horas_dia').value);
+            var d = Number(document.getElementById('dias_mes').value);
+            var p = Number(document.getElementById('preco_energia').value);
+            var resultado = x * h * d * p; 
+            var co2 = x * h * d * 0.5;
+            localStorage.setItem('resultado', resultado);
+            localStorage.setItem('co2', co2);
+            window.location.href = '../08_resultado/resultado.html';
+        });
+        </script>
+
+</body>
+</html>
