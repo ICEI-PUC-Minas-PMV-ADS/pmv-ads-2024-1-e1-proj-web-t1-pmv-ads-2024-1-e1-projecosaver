@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/9188ff58-c13f-4878-b91c-9b18df3dfb25" alt="Figura 1 - Fluxo do Usuário" width="800">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/01120d71-eb8f-4aee-a587-bad9bfc46361" alt="Figura 1 - Fluxo do Usuário" width="800">
   <br>
   Figura 1 - Fluxo de usuário
 </p>
@@ -23,7 +23,7 @@ A estrutura base do nosso projeto está representada na Figura 2, sendo dividida
 <br>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/57a45fb6-36f6-41c3-b76e-017355adff82" alt="Figura 2 - Prtótipo" width="500">
+  <img src="Prototipo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/761cfa49-dca2-4135-aa86-c19e270dff69" alt="Figura 2 - Prtótipo" width="500">
   <br>
   Figura 2 - Protótipo.
 </p>
@@ -35,7 +35,7 @@ A estrutura base do nosso projeto está representada na Figura 2, sendo dividida
 <br>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/0a58e793-e338-47b4-9a4c-272f4939666c" alt="Home Page" width="500">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/1869c1fa-7d24-42e9-ae4a-bad6a20e5390" alt="Home Page" width="500">
   <br>
   Tela: Home Page.
 </p>
@@ -47,7 +47,7 @@ A estrutura base do nosso projeto está representada na Figura 2, sendo dividida
 <br>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/d6c21304-80df-49ee-8d65-897a6b76d0d2" alt="Cadastro" width="500">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/12942697-e1a5-46c9-a422-603cc79e1a8d" alt="Cadastro" width="500">
   <br>
   Tela: Cadastro.
 </p>
@@ -59,7 +59,7 @@ A estrutura base do nosso projeto está representada na Figura 2, sendo dividida
 <br>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/99042745-dbf7-42e7-9ecb-36d6bb481398" alt="Login" width="500">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/4134bac4-d66e-4d4b-9d0f-d7a78cde0c9d" alt="Login" width="500">
   <br>
   Tela: Login.
 </p>
@@ -71,7 +71,7 @@ A estrutura base do nosso projeto está representada na Figura 2, sendo dividida
 <br>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/6a99b883-4e23-41e1-88a0-9448616247ef" alt="Sobre" width="500">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/348a6467-ffb4-436b-b283-ff3051dbf568" alt="Sobre" width="500">
   <br>
   Tela: Sobre nós.
 </p>
@@ -83,7 +83,7 @@ A estrutura base do nosso projeto está representada na Figura 2, sendo dividida
 <br>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/832d7ed5-70a8-4ee2-a859-6d42ca9422a4" alt="Notícias" width="500">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/330993b9-6d46-483b-ad69-1c137a4230f8" alt="Notícias" width="500">
   <br>
   Tela: Notícias.
 </p>
@@ -95,7 +95,7 @@ A estrutura base do nosso projeto está representada na Figura 2, sendo dividida
 <br>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/0817037e-f6a2-4b34-bd7d-424ee4bbe864" alt="Bem-vindo" width="500">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/b79f32ec-7300-4407-a683-13ca8b777ad0" alt="Bem-vindo" width="500">
   <br>
   Tela: Boas-vindas.
 </p>
@@ -107,7 +107,7 @@ A estrutura base do nosso projeto está representada na Figura 2, sendo dividida
 <br>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/0f77a48e-799a-4d2a-a7e5-1c9852564e22" alt="Cálculo" width="500">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/c6a0527a-fad7-45ab-9892-52bf3de5e839" alt="Cálculo" width="500">
   <br>
   Tela: Cálculo.
 </p>
@@ -119,7 +119,7 @@ A estrutura base do nosso projeto está representada na Figura 2, sendo dividida
 <br>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/7c9f9a42-8271-4e4b-9da2-75a6101eb16d" alt="Resultado" width="500">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/b5666f9b-75a6-4874-a899-e074dac50cfb" alt="Resultado" width="500">
   <br>
   Tela: Resultado.
 </p>
@@ -131,7 +131,7 @@ A estrutura base do nosso projeto está representada na Figura 2, sendo dividida
 <br>
 
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/f50584b6-f12b-4177-807c-02a96e0c9074" alt="Histórico" width="500">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/3424a4c2-a6cd-4474-92e5-a2a20ebf0f80" alt="Histórico" width="500">
   <br>
   Tela: Histórico.
 </p>
