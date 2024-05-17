@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/775d47a8-853e-4e21-b6a0-f2b99ea3e174" alt="Logo EcoSaver" width="200">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/0a1f89e0-2363-49b9-82f5-a49b9035c888" width="200">
 </p>
 
 # EcoSaver – Serviço de Economia e Gasto Eficiente de Energia
