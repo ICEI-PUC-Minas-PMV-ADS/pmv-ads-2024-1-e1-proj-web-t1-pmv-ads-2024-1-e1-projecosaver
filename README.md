@@ -1,25 +1,28 @@
-# Título do Projeto
+<p align="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/145709183/775d47a8-853e-4e21-b6a0-f2b99ea3e174" alt="Logo EcoSaver" width="200">
+</p>
 
-`CURSO`
+# EcoSaver – Serviço de Economia e Gasto Eficiente de Energia
 
-`DISCIPLINA`
+```Análise e Desenvolvimento de Sistema - PUC Minas```
 
-`SEMESTRE`
+```Desenvolvimento de aplicação web front-end```
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+```1º Semestre/2024```
 
+O objetivo geral deste projeto é o desenvolvimento de uma ferramenta, denominada como “EcoSaver”, que permita aos consumidores obterem informações claras e acessíveis sobre o consumo de energia através do cadastro de informações sobre aparelhos eletrônicos e sua posterior conversão em emissões de carbono, atuando, assim, na conscientização sobre o consumo e na adoção de hábitos sustentáveis para a redução de impactos ambientais.
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Anderson dos Santos Guimarães
+* Danillo Souza de Faria
+* Jéssica Maria Silva
+* Paloma Caroline de Sá Bassani
+* Rafael de Castro Leles
+* Thiago Soares de Souza
 
 ## Orientador
 
-* Nome completo do professor
+* Joyce Christina de Paiva Carvalho
 
 # Documentação
 
