@@ -23,7 +23,7 @@ A estrutura base do nosso projeto está representada na Figura 2, sendo dividida
 <br>
 
 <p align="center">
-  <img src="Prototipo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/761cfa49-dca2-4135-aa86-c19e270dff69" alt="Figura 2 - Prtótipo" width="500">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/761cfa49-dca2-4135-aa86-c19e270dff69" alt="Figura 2 - Protótipo" width="500">
   <br>
   Figura 2 - Protótipo.
 </p>
