@@ -34,10 +34,10 @@ Para organizar e distribuir as tarefas do projeto, a equipe está utilizando o G
   
 +   Done: Nesta lista são incluídas as tarefas finalizadas, que já foram testadas e atendem aos requisitos necessários, estando pronta para serem disponibilizadas aos usuários.
   
-O quadro kanban do grupo no GitHub está disponível no link: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/950, e é apresentado, no estado atual, na figura abaixo:
+O quadro kanban do grupo no GitHub está disponível no link: <a href="https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/950/views/1" target="_blank">Kanban - EcoSaver</a>, e é apresentado, no estado atual, na figura abaixo:
 <br/><br/>
 <div  align="center">
-<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/assets/164424555/27a69258-f36e-496e-9ffb-cd69e4ee836b">
+<img  src="">
 <br/>
   
 **Figura 1 – Print daTela do kanban no GitHub utilizada pelo grupo**
@@ -59,10 +59,10 @@ Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e Fig
 
 | Ambiente | Plataforma | Link de acesso | 
 |:--------------------|:---------------------|:--------------------|
-| Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver/blob/main/README.md |
-| Documentos do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-ecosaver |
-| Projeto de interface e wireframes | Figma | https://www.figma.com/file/K8qIrr8PFN7umKcr58aQ3M/Projeto%3A-EcoSaver---Grupo-B-(OpenDocument)?type=design&mode=design)type=design&mode=design&t=LyuCRG8kAFXTLgJ9-0 |
-| Gerenciamento do projeto | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/950Aopen |
+| Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/tree/main/codigo-fonte |
+| Documentos do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/tree/main/documentos |
+| Projeto de interface e wireframes | Figma | https://www.figma.com/design/K8qIrr8PFN7umKcr58aQ3M/Projeto%3A-EcoSaver---Grupo-B-(OpenDocument)?node-id=0-1&t=KuVh2OVQYyLyu5mm-0 |
+| Gerenciamento do projeto | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/950 |
 
 <br/>
 </div>
