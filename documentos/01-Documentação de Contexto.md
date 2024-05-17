@@ -72,7 +72,7 @@ De acordo com o que se verificou no banco de dados, o setor comercial e residenc
 
   **Figura 01 – Distribuição do consumo por setores**
 <br/><br/>
-<img  src="Distribuição do consumo por setores](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/0ab78445-fb92-48d4-ade8-2e2775cf8165">
+<img  src="Distribuição do consumo por setores](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/0ab78445-fb92-48d4-ade8-2e2775cf8165" width="500">
 <br/>
 **Fonte: EPE (2022).**
 </div>
@@ -83,7 +83,7 @@ Nesse sentido, também se estabeleceu uma análise do consumo em relação às r
   
 **Figura 02 – Relação entre regiões, setores e número de consumidores.**
 <br/><br/>
-<img  src="Relação entre regiões, setores e número de consumidores](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/97ff7ba2-bd8e-40a4-85b1-492458c2f08c">
+<img  src="Relação entre regiões, setores e número de consumidores](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/97ff7ba2-bd8e-40a4-85b1-492458c2f08c" width="500">
 <br/>
 **Fonte: IBGE; Simples (2022).**
 </div>
