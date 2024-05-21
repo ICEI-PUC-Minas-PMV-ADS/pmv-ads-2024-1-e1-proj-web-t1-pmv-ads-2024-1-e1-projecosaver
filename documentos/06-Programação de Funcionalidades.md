@@ -256,7 +256,7 @@ Exemplo da tela inicial:
 	
 <div  align="center">
 <br>
-<img  src="6-Bem-vindo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/946d2530-5592-41c4-b98f-ab5a2a47d93a" alt="Tela Pagina Inicial" width="500"">
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/946d2530-5592-41c4-b98f-ab5a2a47d93a" alt="Tela Pagina Inicial" width="500"">
 <br>
 Figura 06 – Exemplo da Tela Página Inicial
 </div>
