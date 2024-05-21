@@ -37,10 +37,10 @@ Para organizar e distribuir as tarefas do projeto, a equipe está utilizando o G
 O quadro kanban do grupo no GitHub está disponível no link: <a href="https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/950/views/1" target="_blank">Kanban - EcoSaver</a>, e é apresentado, no estado atual, na figura abaixo:
 <br/><br/>
 <div  align="center">
-<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/7db6337a-74f1-41eb-93d9-01ce12d3dca7" width="500">
+<img  src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/7db6337a-74f1-41eb-93d9-01ce12d3dca7" width="1000">
 <br/>
   
-**Figura 1 – Print daTela do kanban no GitHub utilizada pelo grupo**
+**Figura 1 – Print da Tela do kanban no GitHub utilizada pelo grupo**
 </div>
 
 ## Ferramentas
