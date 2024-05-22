@@ -6,22 +6,33 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-size: 62,5%;
     font-family: "Roboto", sans-serif;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 body {
     background-color: #FFFBEF !important;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    width: 100%;
 }
 
 .conteudo {
-    background-color: #FFFBEF;
+    flex: 1;
     display: flex;
     justify-content: center;
     align-items: flex-start;
     flex-wrap: wrap;
     padding: 2rem;
     box-sizing: border-box;
+    background-color: #FFFBEF;
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.3);
 }
 
@@ -30,7 +41,7 @@ body {
     width: 40%; 
     text-align: center;
     margin-right: 10rem;
-    line-height: 1.5;
+    line-height: 1.3rem;
 }
 
 .nossa-historia h2 {
@@ -44,14 +55,14 @@ body {
 }
 
 .nossa-historia img {
-    max-width: rem;
+    max-width: 12rem;
 }
 
 .imagem-container {
-    max-width: 25rem;
+    max-width: 19rem;
     border: 0.2rem solid #D99000;
     border-radius: 1rem;
-    padding: 2rem;
+    padding: 1.5rem;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
@@ -68,8 +79,8 @@ body {
 }
 
 .github-container {
-    margin-top: 2rem;
-    width: 1.5rem;
+    margin-top: 1.5rem;
+    width: 1rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -106,6 +117,14 @@ body {
     .nossa-historia {
         width: 100%; /* Alteração aqui */
         margin-right: 0; /* Alteração aqui */
+    }
+
+    .nossa-historia h2 {
+        font-size: 1.2rem;
+    }
+    
+    .nossa-historia p {
+        font-size: 1rem;
     }
 
     .imagem-container {
