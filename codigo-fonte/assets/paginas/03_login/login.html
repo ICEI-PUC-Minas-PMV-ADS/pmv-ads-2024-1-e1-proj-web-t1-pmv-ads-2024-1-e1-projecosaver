@@ -39,15 +39,16 @@
       <img src="../../img/img - fio.svg" class="me-5 imgs">
     </span>
 
-    <section class="flex-center mb-5 z-1">
-        <h1 class="title">Faça seu login</h1>
-
-        <input type="email" class="input-mail" placeholder="Email">
-        <input type="password" class="input-password" placeholder="Senha">
-        <span>
-        <a href="../06_pagina_inicial/pagina_inicial.html"><button class="btn-gotocadastro mb-2">Acessar</button></a>
-        <a class="link" href="../02_cadastro/cadastro.html"><p class="link">*Não possui um cadastro?</p></a>
-        </span>
+    <section class="flex-center flex-column mb-5 z-1">
+        <form id="login-form" class="form flex-center flex-column" method="post">
+            <h1 class="title">Faça seu login</h1>
+            <input type="email" id="username" class="input-mail" placeholder="Email">
+            <input type="password" id="password" class="input-password" placeholder="Senha">
+            <span>
+                <button type="submit" class="btn-gotocadastro mb-2">Acessar</button>
+                <a class="link" href="../02_cadastro/cadastro.html"><p class="link">*Não possui um cadastro?</p></a>
+            </span>
+        </form>
     </section>
 
     <span class="d-flex justify-content-between position-relative" style="bottom: 9.6rem;">
