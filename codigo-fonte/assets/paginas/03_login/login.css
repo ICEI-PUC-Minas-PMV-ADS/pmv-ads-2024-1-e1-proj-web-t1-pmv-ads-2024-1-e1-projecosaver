@@ -84,15 +84,11 @@ input:focus {
     color: #FFFBEF;
 }
 
-.navbar-collapse {
-    justify-content: center;
-}
-
 .navbar {
     background-color: #FAC254;
     display: flex;
     align-items: center;
-    justify-content: center !important;
+    justify-content: space-between;
     padding: 0 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
@@ -147,17 +143,6 @@ input:focus {
     height: 30px;
     max-width: 100%;
     height: auto;
-}
-
-
-.logo img {
-    margin-left: 100px;
-    height: 30px; 
-}
-
-.user img {
-    margin-right: 100px;
-    height: 40px; 
 }
 
 .conteudo {
@@ -307,3 +292,34 @@ input:focus {
         visibility:hidden;
     }
   }
+
+  
+@media (max-width: 991px) {
+    .container-fluid .row .col-6 img {
+        display: none;
+    }
+
+    .div-msg-left {
+        display: none;
+    }
+
+    .label-news {
+        display: none;
+    }
+    .user {
+        display: none;
+    }
+}
+
+@media (min-width: 448px) {
+    .navbar-collapse {
+        display: flex;
+        justify-content: center;
+        flex-grow: 1;
+    }
+
+    .navbar-nav {
+        justify-content: center;
+        width: 100%;
+    }
+}
