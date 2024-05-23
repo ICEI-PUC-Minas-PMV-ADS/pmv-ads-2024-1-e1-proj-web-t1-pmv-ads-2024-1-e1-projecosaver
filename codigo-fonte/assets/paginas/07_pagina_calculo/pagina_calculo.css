@@ -142,6 +142,11 @@
         justify-content: center; 
     }
 
+    .botao {
+        margin-left: 90px;
+        margin-top: 0;
+    }
+
     .logo img {
         margin-left: 20px; 
     }
@@ -149,7 +154,9 @@
     .user img {
         margin-right: 20px; 
     }
-
+    .maos img {
+        margin-top: 20px;
+    }
     .conteudo {
         padding: 20px; 
     }
@@ -167,4 +174,3 @@
         font-size: 16px; 
     }
 }
-

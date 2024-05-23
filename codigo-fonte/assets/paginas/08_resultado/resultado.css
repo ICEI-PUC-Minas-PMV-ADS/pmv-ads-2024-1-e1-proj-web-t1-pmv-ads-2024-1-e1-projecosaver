@@ -194,3 +194,19 @@ body {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     font-size: 16px;
 }
+
+@media screen and (max-width: 600px) {
+    .logoEcosaver img {
+        height: auto; /* Mantém a proporção da imagem */
+        max-width: 100%; /* Garante que a imagem nunca seja maior que seu contêiner */
+    }
+
+    .novo_calc {
+        
+        width: 100%; /* Faz o botão ocupar toda a largura do contêiner */
+        font-size: 1em; /* Usa unidades em para tornar o tamanho da fonte responsivo */
+        padding: 1em; /* Usa unidades em para tornar o padding responsivo */
+        box-sizing: border-box; /* Inclui padding e border no tamanho total do elemento */
+    }
+
+}
