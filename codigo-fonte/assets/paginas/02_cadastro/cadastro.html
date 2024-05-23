@@ -39,18 +39,20 @@
       <img src="../../img/img - fio.svg" class="me-5 imgs">
     </span>
 
-    <section class="flex-center mb-5">
-        <h1 class="title">Faça seu cadastro:</h1>
-
-        <input type="text" class="input-mail" placeholder="Nome completo">
-        <input type="email" class="input-mail" placeholder="Email">
-        <input type="tel" class="input-password" placeholder="Telefone">
-        <input type="password" class="input-password" placeholder="Senha">
-        <input type="password" class="input-password" placeholder="Confirmar Senha">
-        <span>
-        <a href="../03_login/login.html"><button class="btn-gotocadastro mb-2">Cadastrar</button></a>
-        <a class="link" href="../03_login/login.html"><p class="link">*Já possui um cadastro?</p></a>
-        </span>
+ 
+    <section class="flex-center flex-column mb-5">
+        <form id="cadastro-form" class="form flex-center flex-column" method="post">
+            <h1 class="title">Faça seu cadastro:</h1>
+            <input type="text" id="txt_nome" class="input-mail" placeholder="Nome completo">
+            <input type="email" id="txt_email" class="input-mail" placeholder="Email">
+            <input type="tel" id="txt_telefone" class="input-password" placeholder="Telefone">
+            <input type="password" id="txt_senha" class="input-password" placeholder="Senha">
+            <input type="password" id="txt_senha2" class="input-password" placeholder="Confirmar Senha">
+            <span>
+                <button type="submit" class="btn-gotocadastro mb-2">Cadastrar</button>
+                <a class="link" href="../03_login/login.html"><p class="link">*Já possui um cadastro?</p></a>
+            </span>
+        </form>
     </section>
 
     <span class="d-flex justify-content-between position-relative z-n1 imgs" style="bottom: 23.1rem;">
