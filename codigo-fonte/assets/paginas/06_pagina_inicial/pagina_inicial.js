@@ -1,10 +1,9 @@
-// Função para obter o nome de usuário da URL
 function getUsernameFromURL() {
     var urlParams = new URLSearchParams(window.location.search);
     return urlParams.get('username');
 }
 
-// Exibir o nome de usuário na página
+
 document.addEventListener('DOMContentLoaded', function() {
     var userEmail = getUsernameFromURL();
     var username;
