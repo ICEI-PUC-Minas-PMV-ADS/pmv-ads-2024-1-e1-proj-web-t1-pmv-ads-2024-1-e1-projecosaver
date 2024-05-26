@@ -1,8 +1,25 @@
+// Função para obter o nome de usuário da URL
+function getUsernameFromURL() {
+    var urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get('username');
+}
+
+// Exibir o nome de usuário na página
 document.addEventListener('DOMContentLoaded', function() {
-    var getFromStorage = localStorage.getItem('users');
-    var data = JSON.parse(getFromStorage);
-    var username = data[0].nome;
+    var userEmail = getUsernameFromURL();
+    var username;
+
+    var getUserFromStorage = localStorage.getItem('users');
+    var dataFromStorage = JSON.parse(getUserFromStorage);
+
+    for(var i=0; i < dataFromStorage.length; i++){
+        if(dataFromStorage[i].email == userEmail){
+            console.log(dataFromStorage[i].nome);
+            username = dataFromStorage[i].nome;
+        }
+    }
+
     if (username) {
-        document.getElementById('usernameDisplay').textContent = 'Seja Bem-vindo(a)! ' + username + '!';
+        document.getElementById('usernameDisplay').textContent = 'Bem-vindo, ' + username + '!';
     }
 });
