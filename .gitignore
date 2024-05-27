@@ -34,3 +34,4 @@ jspm_packages/
 
 # Arquivos de ambiente
 .env
+/codigo-fonte/assets/paginas/01_home/home.html
