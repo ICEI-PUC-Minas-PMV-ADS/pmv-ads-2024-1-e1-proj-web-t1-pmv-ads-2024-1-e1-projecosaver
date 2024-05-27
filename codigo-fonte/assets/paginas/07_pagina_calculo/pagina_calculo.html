@@ -92,8 +92,8 @@
             var h = Number(document.getElementById('horas_dia').value);
             var d = Number(document.getElementById('dias_mes').value);
             var p = Number(document.getElementById('preco_energia').value);
-            var resultado = x * h * d * p; 
-            var co2 = x * h * d * 0.5;
+            var resultado = (x * h * d * p).toFixed(2); 
+            var co2 = (x * h * d * 0.05).toFixed(3);
             localStorage.setItem('resultado', resultado);
             localStorage.setItem('co2', co2);
             window.location.href = '../08_resultado/resultado.html';
