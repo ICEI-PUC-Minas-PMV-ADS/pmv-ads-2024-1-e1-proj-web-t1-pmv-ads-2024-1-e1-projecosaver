@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoSaver</title>
+    <link rel="stylesheet" href="calculo.css">
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+
+    <div class="navbar">
+        <div class="logo">
+            <a href="home.html">
+                <img src="../sobre/img/ECONav.svg" alt="ECO">
+            </a>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="home.html">HOME</a></li>
+                <li><a href="sobre.html">SOBRE NÓS</a></li>
+                <li><a href="noticias.html">NOTÍCIAS</a></li>
+            </ul>
+        </nav>
+        <div class="user">
+            <a href="login.html">
+                <img src="../sobre/img/UserNav.svg" alt="Usuário">
+            </a>
+        </div>
+    </div>
+    </div>
+
+    <div class="conteudo">
+        <div class="nossa-historia">
+            <h2>Calcule o consumo de energia por mês:</h2>
+            <br>
+            <p>
+                <form>
+                    <label for="eletrodomestico">Selecione o seu eletrodoméstico:</label><br>
+                    <select class="form" id="eletrodomestico" name="eletrodomestico">
+                        <option value="escolha">-Escolha um item-</option>
+                        <option value="geladeira">Geladeira</option>
+                        <option value="maquina_lavar">Máquina de Lavar</option>
+                        <option value="ar_condicionado">Ar Condicionado</option>
+                    </select><br><br>
+            
+                    <label for="dias_mes">Dias utilizados por mês:</label><br>
+                    <input class="form" type="number" id="dias_mes" name="dias_mes" min="1" required><br><br>
+            
+                    <label for="horas_dia">Horas utilizadas por dia:</label><br>
+                    <input class="form" type="number" id="horas_dia" name="horas_dia" min="1" required><br><br>
+            
+                    <label for="preco_energia">Preço da energia (reais por kW/h):</label><br>
+                    <input class="form" type="number" id="preco_energia" name="preco_energia" step="0.01" min="0" required><br><br>
+            
+                </form>
+            </p>
+            <br>
+        </div>
+        <div class="imagem-container">
+            <div class="maos">
+                <img src="../pagina_inicial/img/logo.svg" alt="Logo EcoSaver">
+            <button class="botao">CALCULAR</button>
+        </div>
+    </div>
+
+    <footer class="rodape">
+        <p>Projeto 01 - Realizado pelo Grupo B - Análise e Desenvolvimento de Sistemas - PUC Minas</p>
+        </footer>
+</body>
+</html>
