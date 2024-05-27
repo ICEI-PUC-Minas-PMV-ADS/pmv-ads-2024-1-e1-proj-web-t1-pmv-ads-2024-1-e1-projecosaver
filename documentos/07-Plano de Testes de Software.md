@@ -11,6 +11,27 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Passos | Indicar passos para a execução do teste |
 | Critérios de êxito | Indicar os critérios de êxito  |
 | Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
+
+|Caso de Teste    | CT-X - Título Caso de Teste |
+|:---|:---|
+| Requisitos Associados | RF-X |
+| Objetivo do Teste | Descrição do objetivo do teste |
+| Passos | Indicar passos para a execução do teste |
+| Critérios de êxito | Indicar os critérios de êxito  |
+| Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
+
+|Caso de Teste    | CT-03 - Verificar o Login de Usuários |
+|:---|:---|
+| Requisitos Associados | RF-01 O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais.
+Artefatos da funcionalidade |
+| Objetivo do Teste | Verificar se o login está sendo feito corretamente. |
+| Passos | 1.Acessar o navegador.
+2.Informar o endereço do site.
+3.Visualizar a página Home.
+4.Clicar em “Login”, no menu.
+5.Preencher seus dados e clicar em “Acessar”.|
+| Critérios de êxito | Após o login, o usuário deverá ser redirecionado para a sua Página Inicial de Boas-vindas.  |
+| Responsável pela elaborar do caso de Teste | Jéssica |
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
