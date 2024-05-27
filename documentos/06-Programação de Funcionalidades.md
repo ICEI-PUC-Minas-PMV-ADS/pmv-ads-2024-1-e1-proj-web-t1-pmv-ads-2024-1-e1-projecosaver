@@ -310,8 +310,8 @@ Figura 07 – Exemplo da Tela de Cálculo
 
 ### Requisito atendido.
 <div align="justify">
-O sistema deve calcular o consumo do aparelho em kWh por dia ou por mês e o quanto isso implica em preço e valores e exibir para o usuário.
-O sistema deve converter o valor do consumo de energia elétrica em emissão de dióxido de carbono (CO2) e exibir ao usuário.
+RF-04: O sistema deve calcular o consumo do aparelho em kWh por dia ou por mês e o quanto isso implica em preço e valores e exibir para o usuário.
+RF-05: O sistema deve converter o valor do consumo de energia elétrica em emissão de dióxido de carbono (CO2) e exibir ao usuário.
 <br>
 </div>
 
