@@ -134,8 +134,8 @@ body {
 
 .img_lamp svg{
     float: right;
-    height: 299px;
-    width: 362px;
+    height: 18.688rem;
+    width: 22.625rem;
     position: relative;
     z-index: 1;
 }
@@ -209,4 +209,43 @@ body {
         box-sizing: border-box; /* Inclui padding e border no tamanho total do elemento */
     }
 
+    .img_lamp svg {
+        display: none; /* Esconde a imagem */
+    }
+
+    .resultado {
+        margin-left: 0; /* Remove a margem à esquerda */
+    }
+
+    .lista_resultados {
+        margin-left: 0; /* Remove a margem à esquerda */
+    }
+
+    .co2 {
+        margin-left: 0; /* Remove a margem à esquerda */
+    }
+
+    .historico {
+        width: 100%; /* Faz o botão ocupar toda a largura do contêiner */
+        font-size: 1em; /* Usa unidades em para tornar o tamanho da fonte responsivo */
+        padding: 1em; /* Usa unidades em para tornar o padding responsivo */
+        box-sizing: border-box; /* Inclui padding e border no tamanho total do elemento */
+    }
+
+    .rodape {
+        font-size: 0.8em; /* Usa unidades em para tornar o tamanho da fonte responsivo */
+    }
+
+    .navbar ul li a {
+        font-size: 1em; /* Usa unidades em para tornar o tamanho da fonte responsivo */
+        padding: 0.5em; /* Usa unidades em para tornar o padding responsivo */
+    }
+
+    .logo img {
+        margin-left: 0; /* Remove a margem à esquerda */
+    }
+
+    .user img {
+        margin-right: 0; /* Remove a margem à direita */
+    }
 }
