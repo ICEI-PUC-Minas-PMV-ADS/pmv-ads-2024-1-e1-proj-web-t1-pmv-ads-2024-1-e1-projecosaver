@@ -36,7 +36,13 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Critérios de êxito | Após o login, o usuário deverá ser redirecionado para a sua Página Inicial de Boas-vindas.  |
 | Responsável pela elaborar do caso de Teste | Jéssica |
 
-
+|Caso de Teste    | CT-04 - Verificar a Página inicial |
+|:---|:---|
+| Requisitos Associados | RF-03 O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais. |
+| Objetivo do Teste | Verificar se os links estão corretos |
+| Passos | 1.Acessar o navegador. 2.Informar o endereço do site. 3.Visualizar a página Home. 4.Clicar em “Login”, no menu. 5.Preencher seus dados e clicar em “Acessar”. 6. Clicar em calcular 7. Verificar o histórico. |
+| Critérios de êxito | Após clicar em calcular, deve ser redirecionado para pagina de cálculo. Após clicar em histórico, deve ser redirecionado para a pagina de histórico |
+| Responsável pela elaborar do caso de Teste | Thiago |
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
