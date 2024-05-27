@@ -43,6 +43,16 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Passos | 1.Acessar o navegador. 2.Informar o endereço do site. 3.Visualizar a página Home. 4.Clicar em “Login”, no menu. 5.Preencher seus dados e clicar em “Acessar”. 6. Clicar em calcular 7. Verificar o histórico. |
 | Critérios de êxito | Após clicar em calcular, deve ser redirecionado para pagina de cálculo. Após clicar em histórico, deve ser redirecionado para a pagina de histórico |
 | Responsável pela elaborar do caso de Teste | Thiago |
+
+|Caso de Teste    | CT-05 - CT 05 – CT 05 – Página responsiva ao usuário  |
+|:---|:---|
+| Requisitos Associados | RNF-02 A aplicação deverá ser responsiva permitindo a visualização em dispositivos diversos de forma adequada.|
+| Objetivo do Teste | Visualizar como a página se comporta em outras resoluções. |
+| Passos | Acessar o link “sobre” na Navbar |
+| Critérios de êxito | AA página  deve estar visível em diversas resoluções.|
+| Responsável pela elaborar do caso de Teste | Paloma |
+
+
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
