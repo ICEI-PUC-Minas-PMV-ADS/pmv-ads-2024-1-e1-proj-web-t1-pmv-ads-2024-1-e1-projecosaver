@@ -1,0 +1,37 @@
+# Arquivos de logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+*.vsidx
+*.config
+*.wsuo
+*.json
+*.sqlite
+
+# Diretórios de build e compilação
+bin/
+obj/
+out/
+build/
+dist/
+
+# Sistema de arquivos específico
+.DS_Store
+Thumbs.db
+
+# Diretórios específicos de IDE/editor
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Dependências
+node_modules/
+jspm_packages/
+
+# Arquivos de ambiente
+.env
+/codigo-fonte/assets/paginas/01_home/home.html

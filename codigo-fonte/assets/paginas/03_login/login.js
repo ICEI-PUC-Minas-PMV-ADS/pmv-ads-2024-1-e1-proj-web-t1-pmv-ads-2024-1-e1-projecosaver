@@ -16,7 +16,8 @@ function processaFormLogin(event) {
     var password = document.getElementById('password').value;
 
     if (loginUser(username, password)) {
-        window.location.href = '../06_pagina_inicial/pagina_inicial.html';
+        // window.location.href = '../06_pagina_inicial/pagina_inicial.html';
+        window.location.href = '../06_pagina_inicial/pagina_inicial.html?username=' + encodeURIComponent(username);
     } else {
         alert('Usuário ou senha incorretos');
     }
