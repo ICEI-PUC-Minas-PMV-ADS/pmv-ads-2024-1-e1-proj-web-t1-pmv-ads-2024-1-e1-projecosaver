@@ -22,14 +22,9 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 |Caso de Teste    | CT-03 - Verificar o Login de Usuários |
 |:---|:---|
-| Requisitos Associados | RF-01 O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais.
-Artefatos da funcionalidade |
+| Requisitos Associados | RF-01 O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais. |
 | Objetivo do Teste | Verificar se o login está sendo feito corretamente. |
-| Passos | 1.Acessar o navegador.
-2.Informar o endereço do site.
-3.Visualizar a página Home.
-4.Clicar em “Login”, no menu.
-5.Preencher seus dados e clicar em “Acessar”.|
+| Passos | 1.Acessar o navegador. 2.Informar o endereço do site. 3.Visualizar a página Home. 4.Clicar em “Login”, no menu. 5.Preencher seus dados e clicar em “Acessar”.|
 | Critérios de êxito | Após o login, o usuário deverá ser redirecionado para a sua Página Inicial de Boas-vindas.  |
 | Responsável pela elaborar do caso de Teste | Jéssica |
  
