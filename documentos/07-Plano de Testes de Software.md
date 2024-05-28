@@ -68,7 +68,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
 
 
-|Caso de Teste    | CT-03 - Verificar a Tela de Resultados |
+|Caso de Teste    | CT-08 - Verificar a Tela de Resultados |
 |:---|:---|
 | Requisitos Associados | RF-05: O sistema deve converter o valor do consumo de energia elétrica e emissão de dióxido de carbono (CO2) e exibir ao usuário. RF-07 O sistema deverá permitir que o usuário tenha acesso a um histórico de seus últimos resultados. |
 | Passos | 1.Acessar o navegador. 2.Informar o endereço do site. 3.Visualizar a página Home. 4.Clicar em “Login”, no menu. 5.Preencher seus dados e clicar em “Acessar”. 6.Clicar em calcular na página de Boas-vindas. 7.Preencher os dados para cálculo. 8.O resultado irá aparecer na página de resultados.|
