@@ -1,10 +1,11 @@
 # Plano de Testes de Software
 
 [Apresente os cenários de testes a serem utilizados na realização dos testes da aplicação. Escolha cenários de testes que demonstrem os requisitos sendo atendidos. ]
-
+<br>
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
 
-
+<br>
+ 
 |Caso de Teste    | CT-02 - Verificar o Cadatro de Usuário |
 |:---|:---|
 | Requisitos Associados | RF-01 O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais. |
@@ -14,7 +15,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste | Danillo |
 
 <br>
-
+ 
 |Caso de Teste    | CT-03 - Verificar o Login de Usuários |
 |:---|:---|
 | Requisitos Associados | RF-01 O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais. |
@@ -24,7 +25,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste | Jéssica |
 
 <br>
-
+ 
 |Caso de Teste    | CT-04 - Verificar a Página inicial |
 |:---|:---|
 | Requisitos Associados | RF-03 O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais. |
@@ -34,7 +35,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste | Thiago |
 
 <br>
-
+ 
 |Caso de Teste    | CT-05 - CT 05 – CT 05 – Página responsiva ao usuário  |
 |:---|:---|
 | Requisitos Associados | RNF-02 A aplicação deverá ser responsiva permitindo a visualização em dispositivos diversos de forma adequada.|
@@ -44,7 +45,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste | Paloma |
 
 <br>
-
+ 
 |Caso de Teste    | CT-07 – Verificar o cadastro de aparelhos eletrônicos  e o funcionamento do cálculo de energia e de dióxido de carbono.|
 |:---|:---|
 | Requisitos Associados | RF-04: O sistema deve calcular o consumo do aparelho em kWh por dia ou por mês e o quanto isso implica em preço e valores e exibir para o usuário; RF-05: O sistema deve converter o valor do consumo de energia elétrica em emissão de dióxido de carbono (CO2) e exibir ao usuário.|
@@ -54,14 +55,14 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste | Paloma |
 
 <br>
-
+ 
 |Caso de Teste    | CT-08 - Verificar a Tela de Resultados |
 |:---|:---|
 | Requisitos Associados | RF-05: O sistema deve converter o valor do consumo de energia elétrica e emissão de dióxido de carbono (CO2) e exibir ao usuário. RF-07 O sistema deverá permitir que o usuário tenha acesso a um histórico de seus últimos resultados. |
 | Passos | 1.Acessar o navegador. 2.Informar o endereço do site. 3.Visualizar a página Home. 4.Clicar em “Login”, no menu. 5.Preencher seus dados e clicar em “Acessar”. 6.Clicar em calcular na página de Boas-vindas. 7.Preencher os dados para cálculo. 8.O resultado irá aparecer na página de resultados.|
 | Critérios de êxito | Após preencher os dados necessário na Página de Cálculo, deverá aparecer os resultador de consumo de energia elétrica e a relação de emissão de dióxido de carbono (CO2). |
 | Responsável pela elaborar do caso de Teste | Jéssica |
-
+<br>
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
