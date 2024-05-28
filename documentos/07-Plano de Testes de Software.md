@@ -5,15 +5,6 @@
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
 
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
-|:---|:---|
-| Requisitos Associados | RF-X |
-| Objetivo do Teste | Descrição do objetivo do teste |
-| Passos | Indicar passos para a execução do teste |
-| Critérios de êxito | Indicar os critérios de êxito  |
-| Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
-
-
 |Caso de Teste    | CT-02 - Verificar o Cadatro de Usuário |
 |:---|:---|
 | Requisitos Associados | RF-01 O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais. |
@@ -22,6 +13,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Critérios de êxito | Após criar o seu cadastro, o usuário deverá ser redirecionado para a página de "Login".  |
 | Responsável pela elaborar do caso de Teste | Danillo |
 
+<br>
 
 |Caso de Teste    | CT-03 - Verificar o Login de Usuários |
 |:---|:---|
@@ -31,6 +23,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Critérios de êxito | Após o login, o usuário deverá ser redirecionado para a sua Página Inicial de Boas-vindas.  |
 | Responsável pela elaborar do caso de Teste | Jéssica |
 
+<br>
 
 |Caso de Teste    | CT-04 - Verificar a Página inicial |
 |:---|:---|
@@ -40,6 +33,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Critérios de êxito | Após clicar em calcular, deve ser redirecionado para pagina de cálculo. Após clicar em histórico, deve ser redirecionado para a pagina de histórico |
 | Responsável pela elaborar do caso de Teste | Thiago |
 
+<br>
 
 |Caso de Teste    | CT-05 - CT 05 – CT 05 – Página responsiva ao usuário  |
 |:---|:---|
@@ -49,24 +43,17 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Critérios de êxito | AA página  deve estar visível em diversas resoluções.|
 | Responsável pela elaborar do caso de Teste | Paloma |
 
+<br>
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
+|Caso de Teste    | CT-07 – Verificar o cadastro de aparelhos eletrônicos  e o funcionamento do cálculo de energia e de dióxido de carbono.|
 |:---|:---|
-| Requisitos Associados | RF-X |
-| Objetivo do Teste | Descrição do objetivo do teste |
-| Passos | Indicar passos para a execução do teste |
-| Critérios de êxito | Indicar os critérios de êxito  |
-| Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
+| Requisitos Associados | RF-04: O sistema deve calcular o consumo do aparelho em kWh por dia ou por mês e o quanto isso implica em preço e valores e exibir para o usuário; RF-05: O sistema deve converter o valor do consumo de energia elétrica em emissão de dióxido de carbono (CO2) e exibir ao usuário.|
+| Objetivo do Teste | Verificar se é possível o cadastro de aparelhos eletrônicos com a informação sobre potência e consumo para possibilitar o cálculo de energia elétrica associado, exibindo ao final ao o resultado ao usuário; Verificar a conversão do custo de energia elétrica em dióxido de carbono e exibir o resultado ao usuário.|
+| Passos | 1. Acessar o navegador; 2. Informar o endereço do site; 3. Fazer cadastro ou, se já tiver, realizar o login; 4. Ser direcionado para página inicial; 5. Optar por calcular o consumo do aparelho ou acessar o histórico; 6. Ao optar por realizar o cálculo, ser direcionado para a página de cálculo.|
+| Critérios de êxito | Cadastrar os aparelhos eletrônicos, incluindo sua potência e tempo de uso e obter o cálculo do consumo de energia e de dióxido de carbono. |
+| Responsável pela elaborar do caso de Teste | Paloma |
 
-
-|Caso de Teste    | CT-X - Título Caso de Teste |
-|:---|:---|
-| Requisitos Associados | RF-X |
-| Objetivo do Teste | Descrição do objetivo do teste |
-| Passos | Indicar passos para a execução do teste |
-| Critérios de êxito | Indicar os critérios de êxito  |
-| Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
-
+<br>
 
 |Caso de Teste    | CT-08 - Verificar a Tela de Resultados |
 |:---|:---|
