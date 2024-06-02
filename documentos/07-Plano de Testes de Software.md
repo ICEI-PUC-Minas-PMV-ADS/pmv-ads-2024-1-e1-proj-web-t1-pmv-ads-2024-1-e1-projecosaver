@@ -45,6 +45,16 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste | Paloma |
 
 <br>
+
+|Caso de Teste    | CT-06 Página de noticias  |
+|:---|:---|
+| Requisitos Associados | RF-06	O sistema deverá fornecer links informativos para recursos adicionais relacionados à eficiência energética.|
+| Objetivo do Teste | Visualizar como a página se comporta em outras resoluções e verificar o link das noticias |
+| Passos | Acessar o link “noticias” na Navbar |
+| Critérios de êxito | A página deve estar visível em diversas resoluções e o link das noticias funcionar corretamente assim indo para página de tal.|
+| Responsável pela elaborar do caso de Teste | Rafael |
+
+<br>
  
 |Caso de Teste    | CT-07 – Verificar o cadastro de aparelhos eletrônicos  e o funcionamento do cálculo de energia e de dióxido de carbono.|
 |:---|:---|
