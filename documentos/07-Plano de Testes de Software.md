@@ -5,7 +5,17 @@
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
 
 <br>
- 
+
+|Caso de Teste    | CT-01 - Verificar a Pagina Home |
+|:---|:---|
+| Requisitos Associados | RF-01 O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais. |
+| Objetivo do Teste | Verificar se a pagina home está com os "links" direcionados para "login" e "cadastro". |
+| Passos | 1.Acessar o navegador. 2.Informar o endereço do site. 3.Visualizar a página Home.|
+| Critérios de êxito | após informar o link da sua navegação, deve ser encaminhado para tela "Home"  |
+| Responsável pela elaborar do caso de Teste | Anderson |
+
+<br>
+
 |Caso de Teste    | CT-02 - Verificar o Cadatro de Usuário |
 |:---|:---|
 | Requisitos Associados | RF-01 O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais. |
