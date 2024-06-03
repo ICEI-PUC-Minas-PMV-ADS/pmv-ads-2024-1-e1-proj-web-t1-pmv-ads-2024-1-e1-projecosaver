@@ -50,7 +50,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-02 - Verificar o Cadatro de Usuário</td>
+  <td>CT-02: Verificar o Cadatro de Usuário</td>
   <td>
    <ul>
     <li>RF-01 O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais.</li>
@@ -83,7 +83,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-03 - Verificar o Login de Usuários</td>
+  <td>CT-03: Verificar o Login de Usuários</td>
   <td>
    <ul>
     <li>RF-01 O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais.</li>
@@ -116,7 +116,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-04 - Verificar a Página inicial</td>
+  <td>CT-04: Verificar a Página inicial</td>
   <td>
    <ul>
     <li>RF-03 O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais.</li>
@@ -155,10 +155,10 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT 05 – Página responsiva ao usuário</td>
+  <td>CT 05: Página responsiva ao usuário</td>
   <td>
    <ul>
-    <li>RF-03 O sistema deve permitir uma funcionalidade de cadastro e login aos usuários, para que possam acessar suas informações pessoais.</li>
+    <li>RNF-02 A aplicação deverá ser responsiva permitindo a visualização em dispositivos diversos de forma adequada.</li>
    </ul>
   </td>
   <td>Visualizar como a página se comporta em outras resoluções.</td>
@@ -187,7 +187,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-06 Página de noticias</td>
+  <td>CT-06: Página de noticias</td>
   <td>
    <ul>
     <li>RF-06 O sistema deverá fornecer links informativos para recursos adicionais relacionados à eficiência energética.</li>
@@ -219,7 +219,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-07 – Verificar o cadastro de aparelhos eletrônicos e o funcionamento do cálculo de energia e de dióxido de carbono.</td>
+  <td>CT-07: Verificar o cadastro de aparelhos eletrônicos e o funcionamento do cálculo de energia e de dióxido de carbono.</td>
   <td>
    <ul>
     <li>RF-04: O sistema deve calcular o consumo do aparelho em kWh por dia ou por mês e o quanto isso implica em preço e valores e exibir para o usuário;</li>
@@ -259,7 +259,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-08 - Verificar a Tela de Resultados</td>
+  <td>CT-08: Verificar a Tela de Resultados</td>
   <td>
    <ul>
     <li>RF-05: O sistema deve converter o valor do consumo de energia elétrica e emissão de dióxido de carbono (CO2) e exibir ao usuário.</li>
