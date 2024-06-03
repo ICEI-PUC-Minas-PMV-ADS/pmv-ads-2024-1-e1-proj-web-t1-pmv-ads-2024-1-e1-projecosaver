@@ -230,6 +230,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    <ul>
     <li>Verificar se é possível o cadastro de aparelhos eletrônicos com a informação sobre potência e consumo para possibilitar o cálculo de energia elétrica associado, exibindo ao final ao o resultado ao usuário;</li>
     <li>Verificar a conversão do custo de energia elétrica em dióxido de carbono e exibir o resultado ao usuário.</li>
+    <li>Verificar se o sistema aceita que o usuário insira caracteres em locais invalidos.</li>
   </td>
   <td>
    <ol>
@@ -242,7 +243,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
     <li>Ao optar por realizar o cálculo, ser direcionado para a página de cálculo.</li>
    </ol>
    </td>
-  <td>Cadastrar os aparelhos eletrônicos, incluindo sua potência e tempo de uso e obter o cálculo do consumo de energia e de dióxido de carbono.</td>
+  <td>Cadastrar os aparelhos eletrônicos, incluindo sua potência e tempo de uso e obter o cálculo do consumo de energia e de dióxido de carbono. O sistema também não permite que o usuário insira caracteres invalidos. Se o usuário inserir uma letra ao lugar de um número, o sistema alertará quanto ao erro.</td>
   <td>Paloma</td>
  </tr>
 </table>
