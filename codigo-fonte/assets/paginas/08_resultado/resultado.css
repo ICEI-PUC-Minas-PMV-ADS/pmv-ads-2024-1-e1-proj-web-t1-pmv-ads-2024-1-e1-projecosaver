@@ -96,11 +96,14 @@ body {
     z-index: 5;
 }
 
+.img_lamp.hidden {
+    display: none !important;
+}
+
 .logoEcosaver {
     position: fixed;
     bottom: calc(2rem + 2rem);
     left: 5rem;
-    z-index: 5;
 }
 
 .logoEcosaver img {
@@ -122,27 +125,46 @@ body {
     display: flex; /* Adiciona flexbox */
     align-items: center; /* Centraliza verticalmente */
     justify-content: center; /* Centraliza horizontalmente */
+    margin-top: auto; /* Garante que o rodapé fique na parte inferior da tela */
 }
 
 @media only screen and (max-width: 768px) {
+
     .img_lamp {
         display: none;
+        position: absolute; /* Mantém a posição fora do fluxo */
+        top: 0;
+        right: 0;
+    }
+
+    .navbardev {
+        width: 100%;
+    }
+
+    .mobile-menu {
+        display: none; 
+        position: absolute;
+        width: 100%;
+        top: 5rem; 
+        left: 0;
+        background-color: #FAC254; 
+        z-index: 9;
+    }
+
+    .lista_resultados h2, .co2 h2 {
+        width: 80%;
+    }
+
+    .novo_calc, .historico {
+        width: 50%;
     }
 
     .logoEcosaver {
-        position: relative;
-        justify-content: center;
-        text-align: center;
-        bottom: auto;
-        left: auto;
-        margin-top: 2rem;
-    }
-
-    .logoEcosaver img {
-        width: 10rem; /* ajuste conforme necessário */
+        display: none;
     }
 
     .rodape {
-        position: relative;
+        margin-top: 0;
+        height: 1.5rem;
     }
 }
