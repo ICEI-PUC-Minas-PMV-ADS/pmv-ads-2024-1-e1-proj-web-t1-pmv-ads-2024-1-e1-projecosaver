@@ -1,8 +1,56 @@
 # Registro de Testes de Software
+<div align="justify">
+  
+<span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/blob/main/documentos/04-Projeto%20de%20Interface.md"> Projeto de Interface</a></span>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/blob/main/documentos/07-Plano%20de%20Testes%20de%20Software.md"> Plano de Testes de Software</a>
+<br><br>
+Os testes funcionais realizados na aplicação são descritos a seguir.
+</div>
 
-Relatório com as evidências dos testes de software realizados na aplicação pela equipe, baseado no plano de testes pré-definido.
+<ol>
+  <li> CT-05: Página responsiva ao usuário, com links funcionando.
+ <br><br>
+  Responsável: Paloma. 
+  <br>
+    
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/164424555/99b8c649-37f9-4a54-84ed-ee7e1e895945
 
-Os resultados dos testes funcionais realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste executado]
+  <br>
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/164424555/4233fb4c-aa40-4cdf-83f6-bf57ed7e70f9
+
+
+</li>
+  <hr>
+  
+  <li> CT-07: Verificar o cadastro de aparelhos eletrônicos e o funcionamento do cálculo de energia e de dióxido de carbono.
+  <div align="justify">
+  <br>
+  Responsável: Paloma.
+
+  <br/>
+
+  </div>
+  </li>
+  <hr>
+  
+
+
+
+    
+
+
+
+
+
+
+
+  </li>
+  <hr>
+
+
+
+
+
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
