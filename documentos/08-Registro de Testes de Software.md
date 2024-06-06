@@ -6,7 +6,7 @@
 Os testes funcionais realizados na aplicação são descritos a seguir.
 </div>
 <li> 
-CT-03: Verificar o Cadastro de Usuários.
+CT-02: Verificar o Cadastro de Usuários.
  <br><br>
   Responsável: Danillo 
   <br><br>
