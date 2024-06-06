@@ -284,6 +284,36 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
  </tr>
 </table>
 
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-09: Verificar a Tela de Histórico</td>
+  <td>
+   <ul>
+    <li>RF-07 O sistema deverá permitir que o usuário tenha acesso a um histórico de seus últimos resultados.</li>
+   </ul>
+  </td>
+  <td>Visualizar como a página se comporta em outras resoluções e verificar o se apresenta o histórico dos aparelhos</td>
+  <td>
+   <ol>
+    <li>Preencher os dados para cálculo.</li>
+    <li>O resultado irá aparecer na página de resultados.</li>
+    <li>Clicar no botão Histórico .</li>
+   </ol>
+   </td>
+  <td>Após clicar no botão histórico, deverá aparecer os resultados de todos os aparelhos do usuário.</td>
+  <td>Danillo</td>
+ </tr>
+</table>
+
 <hr>
  
 > **Links Úteis**:
