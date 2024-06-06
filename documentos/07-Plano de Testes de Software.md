@@ -155,7 +155,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT 05: Página responsiva ao usuário</td>
+  <td>CT 05: Página responsiva ao usuário e com links funciinando</td>
   <td>
    <ul>
     <li>RNF-02 A aplicação deverá ser responsiva permitindo a visualização em dispositivos diversos de forma adequada.</li>
