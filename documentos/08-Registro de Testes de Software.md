@@ -5,8 +5,18 @@
 <br><br>
 Os testes funcionais realizados na aplicação são descritos a seguir.
 </div>
-
 <li> 
+CT-02: Verificar o Cadastro de Usuários.
+ <br><br>
+  Responsável: Danillo 
+  <br><br>
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145403567/6adef8c9-65e7-42fa-929e-2f470e70edac
+
+</li>
+  <hr>
+   <br>
+   <li> 
 CT-03: Verificar o Login de Usuários.
  <br><br>
   Responsável: Jéssica. 
