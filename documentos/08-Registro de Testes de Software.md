@@ -5,19 +5,17 @@
 <br><br>
 Os testes funcionais realizados na aplicação são descritos a seguir.
 </div>
-
 <ol>
   <li> CT-05: Página responsiva ao usuário, com links funcionando.
  <br><br>
   Responsável: Paloma. 
-  <br>
+  <br><br>
     
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/164424555/99b8c649-37f9-4a54-84ed-ee7e1e895945
 
   <br>
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/164424555/4233fb4c-aa40-4cdf-83f6-bf57ed7e70f9
-
 
 </li>
   <hr>
@@ -26,36 +24,15 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-
   <div align="justify">
   <br>
   Responsável: Paloma.
-
+  <br><br>
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/164424555/b5a34af2-13b7-4af2-91cf-612ca3e561d4
 
-
-
   <br/>
-
   </div>
   </li>
   <hr>
   
-
-
-
-    
-
-
-
-
-
-
-
-  </li>
-  <hr>
-
-
-
-
-
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
