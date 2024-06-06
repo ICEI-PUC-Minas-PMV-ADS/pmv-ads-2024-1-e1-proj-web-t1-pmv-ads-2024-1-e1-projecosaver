@@ -5,8 +5,24 @@
 <br><br>
 Os testes funcionais realizados na aplicação são descritos a seguir.
 </div>
-<ol>
-  <li> CT-05: Página responsiva ao usuário, com links funcionando.
+
+<li> 
+CT-03: Verificar o Login de Usuários.
+ <br><br>
+  Responsável: Jéssica. 
+  <br><br>
+    
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/164424555/f67c1118-95e8-4141-98e2-18063ab611f0
+
+ <br>
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/164424555/d1078d70-cd88-4c7d-b980-f25e45f9bffc
+
+</li>
+  <hr>
+   <br>
+<li> 
+  CT-05: Página responsiva ao usuário, com links funcionando.
  <br><br>
   Responsável: Paloma. 
   <br><br>
@@ -20,20 +36,23 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-
 </li>
   <hr>
   
-  <li> CT-07: Verificar o cadastro de aparelhos eletrônicos e o funcionamento do cálculo de energia e de dióxido de carbono.
-  <div align="justify">
-  <br>
+  <li> 
+    CT-07: Verificar o cadastro de aparelhos eletrônicos e o funcionamento do cálculo de energia e de dióxido de carbono.
+  <br><Br>
   Responsável: Paloma.
   <br><br>
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/164424555/b5a34af2-13b7-4af2-91cf-612ca3e561d4
 
   <br/>
-  </div>
   </li>
   <hr>
-  
 
+
+
+
+
+  
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
 | Resultados obtidos | Descrever resultados do teste  |
