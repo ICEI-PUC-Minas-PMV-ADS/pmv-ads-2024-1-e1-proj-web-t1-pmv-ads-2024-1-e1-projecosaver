@@ -32,7 +32,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-
   <hr>
    <br>
 <li> 
-  CT-05: Página responsiva ao usuário, com links funcionando.
+CT-05: Página responsiva ao usuário, com links funcionando.
  <br><br>
   Responsável: Paloma. 
   <br><br>
@@ -43,6 +43,12 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/164424555/4233fb4c-aa40-4cdf-83f6-bf57ed7e70f9
 
+<br>
+
+### Conclusão:
+<div align="justify">
+Os testes foram bem sucedidos. A página manteve constância em diversas resoluções (mobile, tablet e web), possibilitando ao usuário acessar todos os links e realizar a leitura do conteúdo. Além disso, os Links presentes na navbar, incluindo o do usuário, direcionaram para a página correta. 
+</div>
 </li>
   <hr>
   
@@ -54,6 +60,12 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/164424555/b5a34af2-13b7-4af2-91cf-612ca3e561d4
 
+<br>
+
+### Conclusão:
+<div align="justify">
+Os testes foram bem sucedidos. É possível que o usuário insira informações sobre os aparelhos eletrônicos, bem como a numeração correspondente à potência, quantidade de uso e o custo da energia elétrica. Acertadamente, após realizar o cálculo o sistema direciona para a página de resultados. Além disso, os campos para preenchimento do usuário impediram caracteres que não condiziam com números, tal como letras e outros caracteres especiais (*, #, %). Conforme teste realizado, o campo identifica se o caractere está correto e, se não estiver, solicita para que o usuário informe um número válido. 
+</div>
   <br/>
   </li>
   <hr>
