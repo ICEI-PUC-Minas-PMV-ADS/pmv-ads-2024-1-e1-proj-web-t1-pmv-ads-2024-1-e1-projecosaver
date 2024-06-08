@@ -24,9 +24,19 @@ CT-03: Verificar o Login de Usuários.
     
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/164424555/f67c1118-95e8-4141-98e2-18063ab611f0
 
- <br>
+ ### Conclusão:
+<div align="justify">
+Os testes foram bem sucedidos. Ao colocar o email e senha corretos, o usuário será encaminhado para a tela seguinte, Tela Página Inicial.  
+</div>
+
+<br>
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/164424555/d1078d70-cd88-4c7d-b980-f25e45f9bffc
+
+### Conclusão:
+<div align="justify">
+Os testes foram bem sucedidos. Ao colocar um email ou senha incorretos, aparecerá uma mensagem avisando o erro.
+</div>
 
 </li>
   <hr>
