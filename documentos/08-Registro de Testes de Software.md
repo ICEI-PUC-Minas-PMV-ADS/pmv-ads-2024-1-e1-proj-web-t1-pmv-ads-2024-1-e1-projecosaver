@@ -121,6 +121,26 @@ Os testes foram bem sucedidos. A página manteve constância em diversas resolu�
 
 </li>
 <hr>
+
+<li> 
+CT-06: Página de noticias
+<br>
+<Br>
+Responsável: Rafael
+<br>
+<br>
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/1685ff6d-37dc-4ec2-815c-7692675ca682
+
+### Conclusão:
+
+<div align="justify">
+Os testes foram bem sucedidos. Os links para as notícias estão corretos e o mecanismo de busca está funcionando. 
+</div>
+</li>
+
+<hr>
+<br>
   
 <li> 
 CT-07: Verificar o cadastro de aparelhos eletrônicos e o funcionamento do cálculo de energia e de dióxido de carbono.
@@ -136,6 +156,26 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-
 
 <div align="justify">
 Os testes foram bem sucedidos. É possível que o usuário insira informações sobre os aparelhos eletrônicos, bem como a numeração correspondente à potência, quantidade de uso e o custo da energia elétrica. Acertadamente, após realizar o cálculo o sistema direciona para a página de resultados. Além disso, os campos para preenchimento do usuário impediram caracteres que não condiziam com números, tal como letras e outros caracteres especiais (*, #, %). Conforme teste realizado, o campo identifica se o caractere está correto e, se não estiver, solicita para que o usuário informe um número válido. 
+</div>
+</li>
+
+<hr>
+<br>
+
+<li> 
+CT-08: Verificar a Tela de Resultados
+<br>
+<Br>
+Responsável: Jéssica.
+<br>
+<br>
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/ee483aeb-c85e-4ee5-bdd6-5b25731ca6e0
+
+### Conclusão:
+
+<div align="justify">
+Os testes foram bem sucedidos. Após preencher os campos obrigatórios para cálculo e clicar em calcular, o usuário é direcionado para a tela de resultados onde os. Os resultados mostrados são os esperados. Os links do botões calcular outro aparelho e histórico estão corretos. 
 </div>
 </li>
 
@@ -162,14 +202,3 @@ Os testes foram inconclusivos. Os links estão corretos e a organização por da
 <hr>
 <br>
 
-
-
-
-
-  
-|Caso de Teste    | CT-X - Título Caso de Teste |
-|:---|:---|
-| Resultados obtidos | Descrever resultados do teste  |
-| Responsável pela execução do caso de Teste | Nome do integrante da equipe |
-
-[Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
