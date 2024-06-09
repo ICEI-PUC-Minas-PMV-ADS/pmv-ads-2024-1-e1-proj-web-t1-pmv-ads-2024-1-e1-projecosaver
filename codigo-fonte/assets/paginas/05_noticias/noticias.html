@@ -42,25 +42,25 @@
                 <tr>
                     <td class="label-news"><span class="msg-left">Notícias:</span></td>
                     <td style="text-align:right">
-                        <input type="text" placeholder="🔍" class="search-input" />
+                        <input id="searchInput" type="text" class="search-input" oninput="filterNews()" />
                     </td>
                 </tr>
             </table><br>
-            <table class="table-noticias">
+            <table class="table-noticias news-item">
                 <tr>
                     <td><img src="../../img/img-news1.png" alt="Descrição da Imagem"></td>
-                    <td><a href="" class="txt-msg">Câmara aprova texto-base de projeto que cria programa para impulsionar energia renovável| Política | G1 (globo.com)</a></td>
+                    <td><a href="https://g1.globo.com/politica/noticia/2024/03/19/camara-aprova-texto-base-de-projeto-que-cria-programa-para-impulsionar-energia-renovavel.ghtml" target="_blank" class="txt-msg">Câmara aprova texto-base de projeto que cria programa para impulsionar energia renovável| Política | G1 (globo.com)</a></td>
                 </tr>
             </table><br>
-            <table class="table-noticias">
+            <table class="table-noticias news-item">
                 <tr>
                     <td><img src="../../img/img-news2.png" alt="Descrição da Imagem"></td>
-                    <td><a href="" class="txt-msg">2023 'demoliu' recordes climáticos no mundo, diz relatório da Organização Meteorológico Mundial | Meio Ambiente | G1 (globo.com)</a></td>
+                    <td><a href="https://g1.globo.com/meio-ambiente/noticia/2024/03/19/2023-demoliu-recordes-climaticos-no-mundo-diz-relatorio-da-organizacao-meteorologica-mundial.ghtml" target="_blank" class="txt-msg">2023 'demoliu' recordes climáticos no mundo, diz relatório da Organização Meteorológico Mundial | Meio Ambiente | G1 (globo.com)</a></td>
                 </tr>
             </table><br>
-            <table class="table-noticias2">
+            <table class="table-noticias2 news-item">
                 <tr>
-                    <td><a href="" class="txt-msg">Onde de calor: Brasil registra novo recorde de demanda de energia elétrica diz ONS | Economia | G1 (globo.com)</a></td>
+                    <td><a href="https://g1.globo.com/economia/noticia/2024/03/17/onda-de-calor-brasil-registra-novo-recorde-de-demanda-de-energia-eletrica-diz-ons.ghtml" target="_blank" class="txt-msg">Onde de calor: Brasil registra novo recorde de demanda de energia elétrica diz ONS | Economia | G1 (globo.com)</a></td>
                 </tr>
             </table><br>
             <table>
@@ -68,13 +68,28 @@
                     <td><a href=""><img style="width: 50%;" src="../../img/logo.svg"></td>
                 </tr>
             </table><br>
-
-
         </div>
     </div>
     <footer class="footer bg-custom">
         <p>Projeto 01 - Realizado pelo Grupo B - Análise e Desenvolvimento de Sistemas - PUC Minas</p>
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        function filterNews() {
+            const input = document.getElementById('searchInput');
+            const filter = input.value;
+            const newsItems = document.getElementsByClassName('news-item');
+
+            for (let i = 0; i < newsItems.length; i++) {
+                const a = newsItems[i].getElementsByTagName('a')[0];
+                const textValue = a.textContent || a.innerText;
+                if (textValue.indexOf(filter) > -1) {
+                    newsItems[i].style.display = "";
+                } else {
+                    newsItems[i].style.display = "none";
+                }
+            }
+        }
+    </script>
 </body>
 </html>
