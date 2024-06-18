@@ -21,3 +21,20 @@ linhas.forEach(linha => tabela.appendChild(linha));
 const ordenacaoIcon = document.querySelector('.ordenacao');
 ordenacaoIcon.innerHTML = ordemCrescente ? '&#9650;' : '&#9660;';
 }
+
+// puxando os dados da tela de calculo
+
+document.addEventListener('DOMContentLoaded', function() {
+    var tbody = document.querySelector('.cedulas');
+    var calculos = JSON.parse(localStorage.getItem('calculos')) || [];
+    
+    calculos.forEach(function(calculo) {
+        var tr = document.createElement('tr');
+        tr.innerHTML = `
+            <td>${calculo.data}</td>
+            <td>${calculo.eletrodomestico}</td>
+            <td>${calculo.consumo}</td>
+        `;
+        tbody.appendChild(tr);
+    });
+});

@@ -82,11 +82,11 @@
     <footer class="rodape">
         <p>Projeto 01 - Realizado pelo Grupo B - Análise e Desenvolvimento de Sistemas - PUC Minas</p>
     </footer>
-
-    <script src="../../scripts/navbardev.js"></script>
+    
     <script>
         document.getElementById('calculo').addEventListener('submit', function(event) {
             event.preventDefault();
+            var eletrodomestico = document.getElementById('eletrodomestico').value;
             var w = Number(document.getElementById('potencia').value);
             var x = Number(document.getElementById('potencia').value) / 1000;
             var h = Number(document.getElementById('horas_dia').value);
@@ -94,11 +94,22 @@
             var p = Number(document.getElementById('preco_energia').value);
             var resultado = (x * h * d * p).toFixed(2); 
             var co2 = (x * h * d * 0.05).toFixed(3);
+
+            var calculos = JSON.parse(localStorage.getItem('calculos')) || [];
+            var dataAtual = new Date().toLocaleDateString('pt-BR');
+    
+            calculos.push({ data: dataAtual, eletrodomestico: eletrodomestico, consumo: resultado + ' kWh' });
+    
+            localStorage.setItem('calculos', JSON.stringify(calculos));
+    
             localStorage.setItem('resultado', resultado);
             localStorage.setItem('co2', co2);
+    
             window.location.href = '../08_resultado/resultado.html';
         });
-        </script>
+    </script>
+
+    <script src="../../scripts/navbardev.js"></script>
 
 </body>
 </html>
