@@ -13,6 +13,6 @@ Abaixo segue vídeo com a apresentação da solução, demonstrando o funcioname
 
 ## Hospedagem
 
-Foi utilizada a plataforma GitHub Pages como ambiente de hospedagem do site do projeto, que será mantido na URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html.
+Foi utilizada a plataforma GitHub Pages como ambiente de hospedagem do site do projeto, que será mantido na URL: [Site EcoSaver](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/codigo-fonte/assets/paginas/01_index/).
 
 
