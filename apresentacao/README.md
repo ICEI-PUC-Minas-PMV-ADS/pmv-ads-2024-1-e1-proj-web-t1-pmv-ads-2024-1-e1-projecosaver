@@ -1,20 +1,18 @@
 # Apresentação do Projeto
 
 ## Apresentação de Slides
+Os slides que compõe a apresentação podem ser visualizados abaixo:
 
 [EcoSaver - Apresentação.pdf](https://github.com/user-attachments/files/15893059/EcoSaver.-.Apresentacao.pdf)
 
 ## Vídeo de apresentação
 
-A equipe também deverá gravar um vídeo de, no máximo, três minutos, com a apresentação da solução. Vocês deverão abrir a aplicação hospedada e apresentar o seu funcionamento.  Poderão ser utilizados quaisquer recursos na montagem do vídeo, mas não se esqueçam de mostrar as funcionalidades da aplicação. Seguem as especificações técnicas que devem ser obedecidas na geração do vídeo:
-
-> - tamanho do arquivo limitado a 90Mb
-> - taxa de FPS limitada a 30 quadros por segundo
-> - resolução HD (720p) ou Full HD (1080p)
-> - formato mp4.
+Abaixo segue vídeo com a apresentação da solução, demonstrando o funcionamento da ferramenta: 
 
 [Adicione vídeo de apresentação.]
 
 ## Hospedagem
 
-[Adicione o endereço eletrônico público onde o site encontra-se hospedado.]
+Foi utilizada a plataforma GitHub Pages como ambiente de hospedagem do site do projeto, que será mantido na URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html.
+
+
