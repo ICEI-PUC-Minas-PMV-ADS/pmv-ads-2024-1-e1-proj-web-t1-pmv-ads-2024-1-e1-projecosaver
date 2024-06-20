@@ -1,0 +1,31 @@
+message: Please cite this software using these metadata.
+title: ECOSAVER
+authors:
+  - family-names: dos Santos Guimarães
+    given-names: Anderson
+  - family-names: Souza de Faria
+    given-names: Danillo
+  - family-names: Maria Silva
+    given-names: Jéssica
+  - family-names: Caroline de Sá Bassani
+    given-names: Paloma
+  - family-names: de Castro Leles
+    given-names: Rafael
+  - family-names: Soares de Souza
+    given-names: Thiago
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: 
+    given-names: 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Christina de Paiva Carvalho
+    given-names: Joyce
+keywords:
+  - Economia
+  - Ecologia
+  - Consumo consciente
+  - Emissão de CO2
+repository-code: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/codigo-fonte/assets/paginas/01_index/index.html
+version: 1.0.0
+date-released: 2024-06-20
