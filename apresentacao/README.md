@@ -11,6 +11,7 @@ Os slides que compõe a apresentação podem ser visualizados abaixo:
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/7f442905-e84b-490e-b417-0e5bfb3a33c4
 
+<hr>
 
 ### Vídeo apresentando a solução, demonstrando o funcionamento da ferramenta: 
 
