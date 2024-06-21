@@ -7,9 +7,14 @@ Os slides que compõe a apresentação podem ser visualizados abaixo:
 
 ## Vídeo de apresentação
 
-Abaixo segue vídeo com a apresentação da solução, demonstrando o funcionamento da ferramenta: 
+### Vídeo informativo sobre o projeto: 
 
-[Adicione vídeo de apresentação.]
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/7f442905-e84b-490e-b417-0e5bfb3a33c4
+
+
+### Vídeo apresentando a solução, demonstrando o funcionamento da ferramenta: 
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/7fd6a4b4-7c4a-428e-9af4-e75983aa980c
 
 ## Hospedagem
 
