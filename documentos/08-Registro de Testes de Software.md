@@ -62,7 +62,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-
 ### Conclusão:
 
 <div align="justify">
-Os testes foram bem sucedidos. Ao colocar o email e senha corretos, o usuário será encaminhado para a tela seguinte, Tela Página Inicial.  
+Os testes foram bem sucedidos. Ao colocar o email e senha corretos, o usuário será encaminhado para a tela seguinte, Tela Página Inicial.
 </div>
 
 <br>
@@ -72,7 +72,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-
 
 ### Conclusão:
 <div align="justify">
-Os testes foram bem sucedidos. Ao colocar um email ou senha incorretos, aparecerá uma mensagem avisando o erro.
+Os testes de insucessos ocorreram perfeitamente. Ao colocar um email ou senha incorretos, aparecerá uma mensagem avisando o erro.
 </div>
 </li>
 
@@ -196,6 +196,28 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-
 
 <div align="justify">
 Os testes foram inconclusivos. Os links estão corretos e a organização por data (mais recente ou mais antiga) está correta, porém o acesso aos dados ainda não foram implementados. 
+</div>
+</li>
+
+<hr>
+<br>
+
+<li> 
+CT-09: Verificar se os dados estão sendo inseridos na Tela de Histórico
+<br>
+<Br>
+Responsável: Danillo.
+<br>
+<br>
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/078648fb-56fc-43ed-9503-659a52580fa0
+
+
+### Conclusão:
+
+<div align="justify">
+Os testes bem sucedidos. O acesso aos dados ainda foram implementados no sistema e puxados pela tela Histórico. 
 </div>
 </li>
 
