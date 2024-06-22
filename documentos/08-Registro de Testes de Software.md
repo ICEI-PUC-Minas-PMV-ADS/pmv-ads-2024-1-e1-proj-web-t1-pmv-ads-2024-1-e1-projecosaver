@@ -175,7 +175,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-
 ### Conclusão:
 
 <div align="justify">
-Os testes foram bem sucedidos. Após preencher os campos obrigatórios para cálculo e clicar em calcular, o usuário é direcionado para a tela de resultados onde os. Os resultados mostrados são os esperados. Os links do botões calcular outro aparelho e histórico estão corretos. 
+Os testes foram bem sucedidos. Após preencher os campos obrigatórios para cálculo e clicar em calcular, o usuário é direcionado para a tela de resultados onde os resultados mostrados são os esperados. Os links dos botões calcular outro aparelho e histórico estão corretos. 
 </div>
 </li>
 
