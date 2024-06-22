@@ -17,6 +17,15 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/7fd6a4b4-7c4a-428e-9af4-e75983aa980c
 
+<hr>
+
+### Vídeo demonstrando as funcionalidades da ferramenta: 
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/assets/145709183/fcbab097-d685-4f56-9189-4476917dc4ee
+
+<hr>
+
 ## Hospedagem
 
 Foi utilizada a plataforma GitHub Pages como ambiente de hospedagem do site do projeto, que será mantido na URL: [Site EcoSaver](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projecosaver/codigo-fonte/assets/paginas/01_index/).
